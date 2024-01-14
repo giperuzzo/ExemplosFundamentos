@@ -1,0 +1,12 @@
+﻿<!-- informações essenciais para o projeto, linguagem xml informações arquivo criado automaticamente, dificilmente vai ter que fazer alguma ateração nesse arquivob -->
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
